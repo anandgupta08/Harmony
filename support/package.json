@@ -1,0 +1,15 @@
+{
+  "name": "support",
+  "version": "1.0.0",
+  "description": "Support Web Component",
+  "main": "support.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "fs-extra": "^7.0.1"
+  }
+}

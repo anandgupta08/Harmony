@@ -1,0 +1,7 @@
+.header {
+    color: orange;
+}
+
+.boundary {
+    border: darkred dashed 5px; padding: 10px;
+}

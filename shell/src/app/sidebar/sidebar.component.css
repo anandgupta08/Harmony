@@ -1,0 +1,33 @@
+.logo {
+    padding: 18px 0px;
+    justify-content: centre;
+    border-bottom: 1px solid rgba(102, 97, 91, 0.3);
+}
+
+.logo-text {
+    text-align: center;
+    padding: 4px 0px;
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #66615B;
+}
+
+.logo-img {
+    width: 42px;
+    max-height: 42px;
+}
+
+.logo-img img {
+    left: 30px;
+    position: absolute;
+}
+
+.nav-link i.fas {
+    margin-right: 20px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
