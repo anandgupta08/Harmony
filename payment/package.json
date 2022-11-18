@@ -15,7 +15,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.6.0",
     "@vue/cli-plugin-eslint": "^3.6.0",
-    "@vue/cli-service": "^3.6.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "cheerio": "^1.0.0-rc.3",
     "concat": "^1.0.3",
